@@ -1,6 +1,5 @@
 package org.example;
-
-import java.lang.module.Configuration;
+import edu.cmu.sphinx.api.Configuration;
 import edu.cmu.sphinx.api.Configuration;
 
 public class VoiceAssistant {
