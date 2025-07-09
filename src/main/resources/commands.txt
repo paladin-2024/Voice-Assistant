@@ -1,0 +1,4 @@
+open chrome
+close chrome
+open notion
+close notion
